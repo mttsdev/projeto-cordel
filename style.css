@@ -81,6 +81,7 @@ section.imagem {
     6px 6px é o tamanho
     13px é o espalhamento */
     background-size: cover;
+    background-attachment: fixed;
 }
 
 section.imagem > p {
